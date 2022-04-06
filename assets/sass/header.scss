@@ -1,0 +1,32 @@
+header{
+	background-color: #2196f3;
+	padding: 3px 15px;
+	display: flex;
+	justify-content: space-between;
+
+	a{
+		text-decoration: none;
+		color: white;
+	}
+
+	p{
+		font-weight: 800;
+		font-size: 1.8rem;
+		margin: 0;
+	}
+
+	ul{
+		list-style: none;
+		font-weight: 600;
+		display: flex;
+		margin: 10px 0;
+		vertical-align: center;
+		
+
+		li{
+			padding: 0 15px;
+		}
+
+		
+	}
+}	
